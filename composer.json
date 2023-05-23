@@ -2,7 +2,7 @@
     "name": "robsox/modulemanager-module",
     "description": "Used to manage, install and configure Laravel modules",
     "type": "laravel-module",
-    "version": "v1.0.3",
+    "version": "v10.0.3",
     "license": ["GPL-3.0-or-later"],
     "authors": [
         {
